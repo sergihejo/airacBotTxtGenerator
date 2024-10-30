@@ -1,7 +1,6 @@
 import os
 import re
 import sys
-
 import pdfplumber
 from bs4 import BeautifulSoup
 import requests
