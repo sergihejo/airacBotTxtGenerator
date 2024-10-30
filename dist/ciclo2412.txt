@@ -1,0 +1,45 @@
+**Comunicación Mensual de Enmienda AIRAC** **Ciclo 2412**
+*Fecha de entrada en vigor: 28 NOV 24*
+
+Enlaces de descarga de la enmienda:
+[AMDT](https://aip.enaire.es/AIP/contenido_AMDT/LE_Amdt_A_2024_11_en.pdf)
+
+**FIR de LECB**
+	● LEPA: Rutas de rodaje normalizadas (Pág. 653-656)
+	● LEIB: Nuevas aproximaciones RNP 06/24 (Pág. 581-586).
+	● LEPA: PRKG 150-152, eliminación PRKG 02B, punto de traspaso Q. (Pág. 673-678)
+
+**FIR de LECM**
+	● LECO: Procedimientos LVP (Pág. 450-451)
+	● LEVT: Subida ILS CAT (Pág. 761-762)
+	● LEVT: Procedimientos LVP (Pág. 769-771)
+	● LEHC: Nuevo FIZ (Pág. 551)
+	● LEHC: Nuevas SID (HUE1D, HUE1C) (Pág. 557)
+	● LEHC: Nuevas aproximaciones (RNP Z/Y 12R/30L) (Pág. 561-574)
+	● LEHC: Nuevos puntos Vy procedimientos FR (Pág. 575-576)
+	● LESO: Nuevo CTR (Pág. 683)
+	● LESO: Stands aviación general (Pág. 687-688)
+	● LESO: Cambio en RNP Z/Y RWY 22 (Pág. 689-695)
+	● LESO: Nueva RNP X RWY 22 (Pág. 697-699)
+	● LESO: Nueva posición puntos VFR (Pág. 703)
+	● LEXJ: Nuevas SID (Pág. 715-718)
+	● LEZG: Cambio freqs. (Pág. 773)
+
+**FIR de LECS**
+	● LEAB: Cambios en reglamentación local (Pág. 460-461)
+	● LEAB: Procedimientos de vuelo VFR (Pág. 462-463)
+	● LEAB: Rutas VFR (Pág. 513-516)
+	● LEAM: Procedimiento de salidas visuales para IFR (Pág. 519)
+	● LEAB: Cambio freqs. LEAB (Pág. 459)
+
+**Aerovías Antiguas**
+ENR antiguo con información del sistema anterior de aerovías:
+[ENR 3.0](https://files.es.ivao.aero/FIR/AOC/AIRACS/2402_LE_ENR_3_0_en.pdf)
+[ENR 3.1](https://files.es.ivao.aero/FIR/AOC/AIRACS/2402_LE_ENR_3_1_en.pdf)
+[ENR 3.2](https://files.es.ivao.aero/FIR/AOC/AIRACS/2402_LE_ENR_3_2_en.pdf)
+
+Este documento se ha generado automáticamente. Puede contener errores.
+
+SOLO PARA USO EN SIMULACIÓN - NO VÁLIDO PARA OPERACIONES REALES
+
+Departamento de Operaciones ATC de IVAO España 📡
